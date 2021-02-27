@@ -1,3 +1,5 @@
+#Tutorial credits: @MckayJohhns https://www.youtube.com/watch?v=IsR5FrjNmro&feature=emb_title
+#Scraping shot data from the Man Utd vs Southampton game that ended 9-0. Match id: 14651
 #import  packages
 import requests
 from bs4 import BeautifulSoup
